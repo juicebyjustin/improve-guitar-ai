@@ -40,4 +40,8 @@ E|------------A----C--------| (5th fret, 8th fret)
 3. **Test yourself! Look away and try to recall the note you’re playing.**  
 4. **Find all the A’s** on the fretboard to anchor yourself.  
 
-This will help you **break out of box shapes** and think in terms of music, not numbers. Want me to show you how to connect this to other positions? 😊
+This will help you **break out of box shapes** and think in terms of music, not numbers. 
+
+Want me to show you how to connect this to other positions? 😊
+
+https://github.com/juicebyjustin/improve-guitar-ai/blob/main/Exercise%201.1%20Connecting%20A%20Minor%20Pentatonic%20Across%20the%20Fretboard
