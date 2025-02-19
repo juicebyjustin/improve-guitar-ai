@@ -44,4 +44,4 @@ This will help you **break out of box shapes** and think in terms of music, not 
 
 Want me to show you how to connect this to other positions? 😊
 
-https://github.com/juicebyjustin/improve-guitar-ai/blob/main/Exercise%201.1%20Connecting%20A%20Minor%20Pentatonic%20Across%20the%20Fretboard
+[https://github.com/juicebyjustin/improve-guitar-ai/blob/main/Exercise%201.1%20Connecting%20A%20Minor%20Pentatonic%20Across%20the%20Fretboard](https://github.com/juicebyjustin/improve-guitar-ai/blob/main/Exercise%201.1%20Connecting%20A%20Minor%20Pentatonic%20Across%20the%20Fretboard.md)
