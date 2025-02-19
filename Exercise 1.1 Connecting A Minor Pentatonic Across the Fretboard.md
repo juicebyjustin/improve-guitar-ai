@@ -82,3 +82,5 @@ This helps your playing **sound more intentional** instead of random.
 
 ### **What’s Next?**  
 Want me to show how to apply this with **a real lick or solo idea**? Or are you more interested in jamming over a **backing track** to practice these transitions? 😊
+
+https://github.com/juicebyjustin/improve-guitar-ai/blob/main/Exercise%201.2%20Applying%20Pentatonic%20Connections%20to%20a%20Real%20Lick%20(A%20Minor).md
