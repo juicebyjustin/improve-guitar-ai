@@ -1,6 +1,6 @@
 The most economical way to learn and internalize the treble clef quickly is to use a combination of mnemonic devices, active recall, and consistent, short daily practice sessions.
 
-https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.etsystatic.com%2F26706693%2Fr%2Fil%2F78073e%2F4736418639%2Fil_fullxfull.4736418639_5a42.jpg&f=1&nofb=1&ipt=dc9a93628c2968a4ae086be1a18637527a5a59a3b92f68cdb62656d35612c6e7&ipo=images
+![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.etsystatic.com%2F26706693%2Fr%2Fil%2F78073e%2F4736418639%2Fil_fullxfull.4736418639_5a42.jpg&f=1&nofb=1&ipt=dc9a93628c2968a4ae086be1a18637527a5a59a3b92f68cdb62656d35612c6e7&ipo=images "Title")
 
 Here’s a step-by-step plan:
 
