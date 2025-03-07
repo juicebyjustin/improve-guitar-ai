@@ -26,12 +26,12 @@ So, when you see:
 The E **major** scale is:  
 ```
 E - F# - G# - A - B - C# - D# - (E)
-1   2    3   4   5   6    7
+1   2    3    4   5   6    7     8
 ```
 Now, to get **E minor (natural minor)**, we **flatten** the **3rd, 6th, and 7th** notes:  
 ```
 E - F# - G - A - B - C - D - (E)
-1   2   ♭3  4   5   ♭6  ♭7   8
+1   2   ♭3  4   5   ♭6  ♭7    8
 ```
 The notes that **changed** are:  
 - **G# → G (♭3)**
@@ -106,7 +106,7 @@ The **E minor scale** is actually just the **E Aeolian mode** of the G major sca
 - If you want **"Exotic metal"**, use **E Phrygian Dominant**.  
 
 🔥 **How to use this right now:**  
-- **Try soloing over an Em - C - D progression** using E Aeolian.  
+- **Try soloing over an Em - C - D progression** using E Aeolian. (The E natural minor scale (also known as the E Aeolian mode) works perfectly over the Em - C - D progression because each of these chords can be derived from the E natural minor scale.)
 - **Shift to E Dorian** for a **less sad, more bluesy/melodic feel.**  
 - **Use E Phrygian Dominant over a chugging open E power chord for instant Middle Eastern metal vibes.**  
 
