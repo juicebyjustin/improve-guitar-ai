@@ -26,3 +26,36 @@ Since your teacher mentioned **E minor shape, positions, and diatonic**, here’
    - Since that was a key issue last time, cleaning that up will free up lesson time for new material.  
 
 Let me know if you want any **diagrams or tabs** to get a head start! 🎸🔥
+
+
+Awesome! Here’s what I can do to help you get a head start:  
+
+### **1. E Minor Scale Diagrams (Diatonic & Pentatonic)**  
+I can provide **fretboard diagrams** showing:  
+- **E minor scale (natural minor/Aeolian) across the neck**  
+- **E minor pentatonic scale (common for metal & rock)**  
+- **E minor scale in CAGED positions**  
+
+---
+
+### **2. Tabs & Exercises**  
+I can write out:  
+- **Basic E minor scale tabs** (in open position & movable shapes)  
+- **CAGED system positions for E minor**  
+- **Practice licks based on Welcome Home’s riffs**  
+- **Palm muting exercises** with power chords & staccato notes  
+- **Finger grouping exercises applied to E minor runs**  
+
+---
+
+### **3. Theory Breakdown (if helpful)**  
+- **How diatonic chords work in E minor** (what chords are built from the scale)  
+- **How to connect power chords & scale shapes**  
+
+---
+
+### **4. Tips for Practicing Clean Transitions**  
+- Exercises to **switch between power chords & single-note runs cleanly**  
+- Strategies for **locking in palm muting**  
+
+Let me know which of these would help most! I can send tabs, diagrams, or explanations based on what you want to focus on. 🎸🔥
