@@ -64,7 +64,7 @@ These open strings make it easier to play in E minor without needing many comple
 ---
 
 ## **🔥 II. CHORDS IN E MINOR (HARMONIZATION) 🔥**  
-Every scale generates a **chord for each note** (diatonic harmony). These are the **chords built from the E minor scale:**
+Every scale generates a **chord for each note** ([diatonic harmony](https://github.com/juicebyjustin/improve-guitar-ai/blob/main/Theory/Diatonic%20Harmony.md)). These are the **chords built from the E minor scale:**
 
 | Degree | Chord | Notes |
 |---|---|---|
