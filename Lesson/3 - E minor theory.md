@@ -46,6 +46,23 @@ The notes that **changed** are:
 🔥 **This flatting is what makes minor scales sound minor.** If we didn’t flatten these notes, we'd just be playing in E major!
 ---
 
+In music, an **accidental** refers to any note that is not part of the key's natural scale, such as sharps (#) or flats (b). For example, in the key of C major, the notes are C, D, E, F, G, A, and B—no sharps or flats.
+
+The statement "No accidentals in standard tuning, so E minor is one of the easiest keys on guitar" means that in the natural **E minor scale**, there are no sharps or flats, so it's easy to play because the notes in the scale match the open strings and common frets on the guitar.
+
+The **E minor scale** includes the notes:
+- E, F#, G, A, B, C, D
+
+The key of **E minor** is considered easy on guitar because the **open strings** on the guitar (in standard tuning) already match many of the notes in this scale:
+
+- **E** (open low E string)
+- **B** (open B string)
+- **G** (open G string)
+- **D** (open D string)
+
+These open strings make it easier to play in E minor without needing many complex fingerings or accidentals. You can play many chords and scales in this key using open strings, which makes it one of the easiest keys to get started with on the guitar.
+---
+
 ## **🔥 II. CHORDS IN E MINOR (HARMONIZATION) 🔥**  
 Every scale generates a **chord for each note** (diatonic harmony). These are the **chords built from the E minor scale:**
 
