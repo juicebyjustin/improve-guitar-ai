@@ -2,7 +2,7 @@ This is already a well-structured and thorough exercise routine, but I can refin
 
 ---
 
-### **Finger Grouping Exercises for Guitar**  
+### **Finger Grouping Exercises for Guitar (Modified by AI)**  
 *(by Matt Gibbs — mggibbs@mac.com | 205-478-5051 — 2022)*  
 
 #### **Two-Finger Groupings**  
