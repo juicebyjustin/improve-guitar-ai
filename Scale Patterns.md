@@ -68,6 +68,9 @@ Your teacher wasn’t *wrong*, but if you want to move freely on the neck, you�
 
 
 
+---
+---
+
 ### **C Major Scale Connection Drill**  
 This drill will help you connect **all 5 major scale positions** across the fretboard so you can move fluidly between them.
 
@@ -160,6 +163,9 @@ Example: Start at **C on the 5th fret of G string**.
 
 🔥 **Do you want me to add licks or speed drills to this?**
 
+---
+---
+
 
 
 You're absolutely **right**! The scale **pattern stays the same**, but it shifts up one string, and the **B string adjustment** (one fret up) is necessary.  
@@ -204,3 +210,52 @@ When shifting **a scale shape up one string**, remember:
 ---
 
 🔥 **Want a drill to master this across all keys?**
+
+---
+---
+Using **3-notes-per-string** scale shapes instead of **CAGED** (which often has 2 notes per string) has **some key advantages**:  
+
+### **Advantages of 3-Notes-Per-String Scales**
+✅ **More Speed & Fluidity** – Picking is more even because you’re not constantly switching between 2 and 3 notes per string.  
+✅ **More Logical Fingerings** – You cover a **consistent amount of frets per string**, making patterns easier to connect.  
+✅ **Wider Range Per Position** – You move **horizontally across the neck more efficiently**, covering **more octaves** without shifting positions as often.  
+✅ **Easier for Legato (Hammer-ons & Pull-offs)** – You naturally get **better economy of motion** with 3 notes per string.  
+
+### **Why Doesn’t Everyone Use It?**
+❌ **Bigger Stretches** – Some shapes require **large finger stretches** (especially in keys with lots of sharps/flats).  
+❌ **Less Connection to Chord Shapes** – The **CAGED system** ties scales to chord shapes, making visualization **easier for rhythm + lead**.  
+❌ **Can Be Harder for Beginners** – Requires **more finger independence** than 2-notes-per-string shapes.  
+
+---
+
+### **Comparison: C Major - 2 Notes Per String (CAGED) vs. 3 Notes Per String**
+#### **C Major (CAGED-style, 2 notes per string)**
+```
+e|-------------------7--8--10-|
+B|---------------8--10-------|
+G|---------7--9-------------|
+D|---7--9-------------------|
+A|7--8----------------------|
+E|8-------------------------|
+```
+🎯 **Good for chord-based playing, but less fluid for fast runs**  
+
+---
+#### **C Major (3 Notes Per String)**
+```
+e|-------------------7--8--10-|
+B|--------------8--10--12----|
+G|---------7--9--10---------|
+D|---7--9--10--------------|
+A|7--8--10----------------|
+E|8--10--12---------------|
+```
+🎯 **More fluid for shredding, legato, and economy picking!**  
+
+---
+### **Which Should You Learn?**
+Both!  
+- Use **CAGED (2-notes-per-string)** to visualize scales **with chord shapes**  
+- Use **3-notes-per-string** for **speed, legato, and horizontal movement**  
+
+🔥 **Want an exercise to help lock in 3-notes-per-string scales?**
