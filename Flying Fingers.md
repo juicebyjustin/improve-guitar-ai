@@ -1,3 +1,5 @@
+# Flying Fingers
+
 So I feel an issue I have is that my middle finger stays hovering around 1/2-1 inch on top of fretboard when I’m not using it. My ring finger pulls off like 5 inches. Am I right in that I want to have ring and pinky function the exact same way as my middle and index finger?
 
 ---
