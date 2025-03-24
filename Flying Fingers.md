@@ -461,4 +461,176 @@ If you commit **10-15 hours per week**, you will **absolutely reach a pro-level 
 
 ---
 
+what do you mean Coheed’s modal ideas?
+
+---
+
+Coheed and Cambria use a lot of **modal interchange** and **non-diatonic** ideas in their music, which give their riffs and solos a unique sound. Understanding **modal ideas** means recognizing how they mix **major, minor, and modal sounds** to create their signature vibe.  
+
+### **Coheed’s Modal Ideas in Practice**  
+
+1️⃣ **Mixing Major & Minor (Dorian Mode)**  
+- They often use **Dorian mode (minor with a raised 6th)** in riffs and solos.  
+- Example: "Welcome Home" has sections that sound **natural minor (Aeolian) but sometimes lean toward Dorian**.  
+
+2️⃣ **Phrygian Dominant (Exotic Sounding)**
+- You’ll hear **Phrygian Dominant (b2, b3, b6, b7)** for a **dark, Middle Eastern feel**.  
+- Example: "The Crowing" intro riff sounds **Phrygian-esque** with its **b2 interval**.  
+
+3️⃣ **Lydian (Dreamy, Suspended Feel)**
+- Lydian (sharp 4) gives a **floating, spacey feel**—Coheed uses this in clean, atmospheric sections.  
+- Example: "The Afterman" has **Lydian-style clean arpeggios** in the intro.  
+
+4️⃣ **Mixolydian (Rock & Bluesy Sound)**
+- They sometimes **borrow from Mixolydian (major scale with b7)** for a rock feel.  
+- Example: "A Favor House Atlantic" has **Mixolydian energy in its bright, yet not fully major-sounding leads**.  
+
+5️⃣ **Chromatic & Non-Diatonic Runs**
+- Many **Coheed solos** add passing tones and chromatic slides, which aren’t strictly in the key but sound **fluid and expressive**.  
+- Example: "No World for Tomorrow" solo has **fast chromatic passing notes** in the lead lines.  
+
+### **How This Helps You Learn Their Music**  
+- Instead of **just memorizing licks**, you’ll **understand why certain notes work** and be able to **improvise in their style**.  
+- It makes learning **solos, fills, and transitions easier**, because you’ll recognize patterns instead of guessing.  
+- When you start **writing or improvising**, you can use **these modal ideas** to sound like Coheed instead of just running scales.  
+
+---
+
+Do you want some **modal exercises** to get these sounds into your playing?
+
+---
+
+yea, that is a lot of practice and i'm not sure i'm up to it. don't know that it's worth it. i could throw 1 hour a day in it for sure. where can i bet at in 1 year with 7 hr/week? yes please throw modal exercises in and i am up for adding structured practice routines to aid in developing skills.
+
+---
+
+### **Where You'll Be in 1 Year with 7 Hours/Week**  
+At **7 hours per week (1 hour/day)**, you can make **serious** progress in a year, but you’ll need **structured, focused practice** to get the best results.  
+
+With **consistent effort**, here’s where you could be:  
+
+#### **✅ Rhythm & Riffing**  
+- **Comfortably playing** most of Coheed’s riffs across their discography.  
+- Able to **switch between different modal feels** (minor, Dorian, Phrygian, etc.) in rhythm playing.  
+- **Tighter picking & fretting** for fast riffs like "The Willing Well" sections.  
+
+#### **✅ Lead Guitar & Solos**  
+- **Fast alternate picking & legato licks** will feel natural.  
+- **Some solos at 75-100% speed** (the more technical ones may need extra time).  
+- **String skipping & tapping improvements** for songs like "Welcome Home" solos.  
+
+#### **✅ Theory & Improvisation**  
+- You’ll **recognize modal sounds** in their music.  
+- You’ll be able to **jam in Coheed’s style**, switching between **minor, Dorian, and Mixolydian**.  
+- You’ll be able to **write your own Coheed-inspired licks** without just copying.  
+
+Would you **master every solo?** No, but you’d be in a **strong spot** to get them over time.  
+
+---
+
+### **🔹 Practice Plan (7 Hours/Week)**
+📌 **Daily: 1 Hour Practice Breakdown**  
+1️⃣ **Warm-Up (10 min)**  
+- **Finger independence drills** (focus on ring & pinky control).  
+- **String skipping drills** to build fluidity.  
+
+2️⃣ **Rhythm Focus (20 min)**  
+- **Alternate picking & downpicking** with Coheed riffs.  
+- **Strumming odd-time riffs** (they love syncopation).  
+- **Metronome practice**, slowly increasing speed.  
+
+3️⃣ **Lead & Technique (20 min)**  
+- **Legato & tapping exercises** for fluidity.  
+- **Fast alternate picking drills** (Coheed has a lot of 3-note-per-string patterns).  
+- **Solo breakdowns** (target specific sections of their solos).  
+
+4️⃣ **Modal Improvisation (10 min)**  
+- **Jam over backing tracks** using Coheed’s common modes.  
+- **Experiment with Dorian, Phrygian, Mixolydian licks**.  
+
+---
+
+### **🎸 Modal Exercises (To Play Like Coheed)**  
+
+#### **1️⃣ Dorian Mode Drill (Minor, But Brighter)**
+📌 **Dorian = Minor Scale with a Raised 6th**  
+- Play **A Dorian** over a backing track in A minor.  
+- **Compare A Minor vs. A Dorian** (notice how the raised 6th gives a "floating" feel).  
+- **Use hammer-ons & pull-offs** to make it smooth.  
+
+🟢 **Exercise (A Dorian Scale Run)**  
+```
+e|----------------------------------5-7-8-7-5-----------------------------|
+B|-------------------------5-6-8-----------------8-6-5---------------------|
+G|-------------------4-5-7----------------------------7-5-4---------------|
+D|-------------4-5-7----------------------------------------7-5-4---------|
+A|-------3-5-7----------------------------------------------------7-5-3---|
+E|---5-7----------------------------------------------------------------5-|
+```
+- **Use legato** (hammer-ons & pull-offs)  
+- Try **sliding** instead of picking every note.  
+
+🎯 **Sounds Like:** Coheed’s smoother solos (like parts of "The Running Free").  
+
+---
+
+#### **2️⃣ Phrygian Dominant (Exotic Sounding)**
+📌 **Phrygian Dominant = Minor Scale with a Flat 2 & Major 3**  
+- **B Phrygian Dominant** (used in dark, heavy Coheed riffs).  
+- Focus on the **b2 interval** for tension.  
+
+🟢 **Exercise (B Phrygian Dominant Riff Idea)**  
+```
+e|------------------------------------------------|
+B|------------------------------------------------|
+G|------------------------------------------------|
+D|---------2---------2-3-2-----------------------|
+A|---1-2-4---4-2-1--------4-2-1------------------|
+E|--------------------------------3-2-1----------|
+```
+- Use **palm muting** on the **low E string**.  
+- Try playing this **aggressively with alternate picking**.  
+
+🎯 **Sounds Like:** Parts of "The Crowing" & "No World for Tomorrow."  
+
+---
+
+#### **3️⃣ Mixolydian (Bluesy, Rock Energy)**
+📌 **Mixolydian = Major Scale with a Flat 7**  
+- **C Mixolydian** is great for Coheed-style solos.  
+- Works **really well over power chords**.  
+
+🟢 **Exercise (C Mixolydian Lick w/ Slides & Bends)**  
+```
+e|------------------------5-7-5-------------------------------|
+B|------5-7-8----7-8-7--------8-7-5--------------------------|
+G|--4-5--------------------------------7-5-4-----------------|
+D|-------------------------------------------7-5-4-----------|
+A|---------------------------------------------------7-5-3---|
+E|----------------------------------------------------------|
+```
+- **Add bends & slides** to make it feel vocal-like.  
+- Try it over a **C major backing track**.  
+
+🎯 **Sounds Like:** Coheed’s bluesier leads ("A Favor House Atlantic" solo).  
+
+---
+
+### **🔹 Summary**  
+1️⃣ **At 7 hr/week, in a year, you’ll:**  
+- Comfortably play most **Coheed rhythm & riffs**.  
+- Tackle **solos at near-full speed**.  
+- **Improvise in their style** with modal knowledge.  
+
+2️⃣ **Practice Plan Includes:**  
+- **Daily drills** for strength, finger control, and speed.  
+- **Modal exercises** to understand Coheed’s lead sound.  
+- **Backing track jams** to connect scales with real music.  
+
+---
+
+### **So, Are You In?**  
+If you’re down for the **1-year plan**, let’s structure it further with monthly goals and track progress. Also, let me know if you want **Coheed song breakdowns** added to the routine!
+
+---
 
