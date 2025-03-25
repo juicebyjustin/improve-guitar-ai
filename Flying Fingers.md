@@ -634,3 +634,117 @@ If you’re down for the **1-year plan**, let’s structure it further with mont
 
 ---
 
+yes, i'm down
+
+
+---
+
+
+Awesome! Here's a **detailed 1-year roadmap** with monthly goals to keep you on track. We'll structure it so that you:  
+1️⃣ **Build technique & control** (finger independence, picking, speed).  
+2️⃣ **Learn & apply Coheed’s style** (riffing, solos, modal understanding).  
+3️⃣ **Develop confidence improvising & composing** in their style.  
+
+---
+
+## **📅 1-Year Coheed & Cambria Guitar Mastery Plan (7hr/week)**
+### **🎯 Month 1-3: Foundation & Precision**
+✅ **Goals:**  
+- Strengthen **ring & pinky independence** (fix finger lifting).  
+- Get tight with **alternate picking & palm muting** for Coheed riffs.  
+- Start **understanding & using modal sounds**.  
+
+🎸 **Practice Routine:**  
+🔹 **Warm-Up (10 min)** – Finger independence, stretching, chromatic drills.  
+🔹 **Rhythm (20 min)** – Learn tight riffing from songs like:  
+   - "A Favor House Atlantic" (fast strumming & timing).  
+   - "No World for Tomorrow" (palm-muted gallop picking).  
+   - "The Running Free" (syncopation & chord changes).  
+🔹 **Lead (20 min)** – Play **slow & controlled** modal licks:  
+   - **A Dorian solo exercises** (like "The Suffering").  
+   - **Phrygian runs** (for dark, tension-filled riffs).  
+🔹 **Modal Jam (10 min)** – Jam over C major/Dorian backing tracks.  
+
+📌 **Outcome:** By Month 3, you’ll have **Coheed’s fundamental rhythm skills** down & a basic feel for modal sounds.  
+
+---
+
+### **🎯 Month 4-6: Speed & Complexity**
+✅ **Goals:**  
+- **Increase speed & accuracy** with Coheed solos.  
+- **Expand modal knowledge** (Mixolydian, Phrygian Dominant).  
+- **Improve legato, tapping, & string skipping**.  
+
+🎸 **Practice Routine:**  
+🔹 **Warm-Up (10 min)** – Faster drills, finger independence.  
+🔹 **Rhythm (20 min)** – Learn tighter, more complex riffing:  
+   - "Welcome Home" (heavy riffs, quick shifts).  
+   - "The Crowing" (Phrygian-style aggression).  
+   - "Ten Speed (of God’s Blood & Burial)" (fast picking).  
+🔹 **Lead (20 min)** – Break down sections of **"Welcome Home" solo**.  
+🔹 **Modal Improvisation (10 min)** –  
+   - Soloing **over Mixolydian & Phrygian progressions**.  
+   - Using **Coheed-style phrasing** in your own licks.  
+
+📌 **Outcome:** By Month 6, you’ll **play fast riffs fluently**, have a solid grip on **Coheed’s solo phrasing**, & start improvising naturally.  
+
+---
+
+### **🎯 Month 7-9: Mastering Solos & Improvising**
+✅ **Goals:**  
+- **Play 75-100% of Coheed solos cleanly**.  
+- **Learn to compose leads & melodies** in their style.  
+- **Master their phrasing techniques** (slides, bends, whammy tricks).  
+
+🎸 **Practice Routine:**  
+🔹 **Warm-Up (10 min)** – Focused finger strength & stretching.  
+🔹 **Rhythm (20 min)** – More odd-time riffs & complex picking.  
+🔹 **Lead (20 min)** – Work on **tricky solos & speed bursts**:  
+   - "In Keeping Secrets of Silent Earth" solo.  
+   - "The Hound (of Blood and Rank)" tapping section.  
+🔹 **Composition (10 min)** –  
+   - Write your own solos **using Coheed’s modal patterns**.  
+   - Focus on making **leads vocal-like & expressive**.  
+
+📌 **Outcome:** By Month 9, you’ll **be tackling full solos**, improvising freely, & writing riffs in their style.  
+
+---
+
+### **🎯 Month 10-12: Full Mastery & Creativity**
+✅ **Goals:**  
+- **Learn the hardest Coheed solos note-for-note**.  
+- **Develop personal style & compose Coheed-style music**.  
+- **Record yourself playing songs with confidence**.  
+
+🎸 **Practice Routine:**  
+🔹 **Warm-Up (10 min)** – Push finger endurance & control.  
+🔹 **Rhythm (20 min)** – Advanced Coheed riffs (odd time, layered parts).  
+🔹 **Lead (20 min)** – Master fast solos & improv with confidence.  
+🔹 **Full Song Playthroughs (10 min)** –  
+   - Play complete Coheed tracks back-to-back **at full tempo**.  
+   - **Jam over backing tracks**, adding your own solos.  
+
+📌 **Outcome:** By Month 12, you’ll **comfortably play Coheed’s entire catalog**, jam in their style, and even **write solos & riffs like them**.  
+
+---
+
+## **🔥 Extra Challenges for Faster Progress**
+If you have **extra time or motivation**, here are some ways to level up even faster:  
+1️⃣ **Record & analyze your playing** – Listen for timing & accuracy issues.  
+2️⃣ **Play along with full tracks** – Helps with phrasing & feel.  
+3️⃣ **Join an online Coheed cover challenge** – Forces you to perform under pressure.  
+4️⃣ **Push your speed 5-10 BPM higher than needed** – Makes normal speed easier.  
+
+---
+
+## **❓ Where You’ll Be After 1 Year**
+🎯 If you **follow this plan at 7 hours/week**, by the end of the year you will:  
+✅ **Comfortably play all of Coheed’s rhythm parts**.  
+✅ **Tackle nearly all solos** with confidence.  
+✅ **Improvise & jam in their style** using modal knowledge.  
+✅ **Compose your own Coheed-inspired riffs & solos**.  
+✅ **Feel at home in any advanced rock/prog metal guitar setting**.  
+
+---
+
+**🎸 Ready to start?** Let me know if you want specific song breakdowns or extra drills!
