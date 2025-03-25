@@ -659,10 +659,12 @@ Awesome! Here's a **detailed 1-year roadmap** with monthly goals to keep you on 
 🔹 **Rhythm (20 min)** – Learn tight riffing from songs like:  
    - "A Favor House Atlantic" (fast strumming & timing).  
    - "No World for Tomorrow" (palm-muted gallop picking).  
-   - "The Running Free" (syncopation & chord changes).  
+   - "The Running Free" (syncopation & chord changes).
+
 🔹 **Lead (20 min)** – Play **slow & controlled** modal licks:  
    - **A Dorian solo exercises** (like "The Suffering").  
-   - **Phrygian runs** (for dark, tension-filled riffs).  
+   - **Phrygian runs** (for dark, tension-filled riffs).
+ 
 🔹 **Modal Jam (10 min)** – Jam over C major/Dorian backing tracks.  
 
 📌 **Outcome:** By Month 3, you’ll have **Coheed’s fundamental rhythm skills** down & a basic feel for modal sounds.  
