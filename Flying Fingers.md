@@ -4,6 +4,7 @@
 - [1-Year Coheed & Cambria Guitar Mastery Plan (7hr/week)](https://github.com/juicebyjustin/improve-guitar-ai/blob/main/Flying%20Fingers.md#1-year-coheed--cambria-guitar-mastery-plan-7hrweek)
 - [❓ Where You’ll Be After 1 Year](https://github.com/juicebyjustin/improve-guitar-ai/blob/main/Flying%20Fingers.md#-where-youll-be-after-1-year)
 - [Weekly Guitar Structure (7 hrs/week)]()
+- [David Gilmour]
 
 
 # Flying Fingers Fix
@@ -855,3 +856,103 @@ By **week 40-52**, you’ll have:
 ✅ Confidence to play **other advanced rock & metal** music.  
 
 If you ever want **specific licks, solos, or additional drills**, let me know! Want to focus on **specific Coheed solos next?**
+
+---
+
+could i easily learn david gilmour-style on my way to coheed in the same manor?
+
+---
+
+Yes, absolutely! Learning David Gilmour’s style could actually be a great way to build your technique and phrasing in a way that will smoothly lead into tackling Coheed and Cambria's more complex, fast-paced solos. Gilmour’s playing is known for **expressive bends**, **sustain**, and **emotionally-driven solos**, all of which will help you develop your **vibrato**, **bending control**, and **tone**—skills that will serve you well as you move toward the more technical aspects of Coheed’s playing.
+
+Here’s a roadmap to learning **David Gilmour’s style** alongside working your way toward Coheed’s solos:
+
+### **1. Focus on Bends, Vibrato, and Phrasing (David Gilmour’s Strengths)**
+Gilmour’s solos are often slower, more melodically driven, and more focused on **expressive bends** and **vibrato** rather than speed and complexity. These skills will set a foundation for your technical growth. Here's what you should practice:
+
+#### **Bending and Vibrato Drill**
+- **Technique:** Focus on **half-step bends**, **full-step bends**, and **controlled vibrato**.
+- **Goal:** Make the bends smooth, controlled, and in pitch. **Vibrato** should add depth to the notes.
+
+##### **Exercise:**
+```
+e|--7b8--7----5b7--5----3b5--3-|
+B|-----------------------------|
+G|-----------------------------|
+D|-----------------------------|
+A|-----------------------------|
+E|-----------------------------|
+```
+- **Start slowly**, ensuring that your bends are accurate and in tune.
+- Work on **adding vibrato** after you bend the note, keeping it controlled and not too wide at first.
+- Once you feel comfortable, **speed up** gradually.
+
+---
+
+### **2. Use of Scales and Modes (Gilmour’s Approach)**
+Gilmour often uses **pentatonic scales**, **blues scales**, and **mixolydian modes** for his solos. These are also the foundation for **Coheed’s solos**, but the difference is that Gilmour's playing is more about **melodic phrasing** rather than blazing speed.
+
+#### **Exercise:**
+- **Start with the A minor pentatonic scale** (David’s go-to scale) and apply **bending** and **vibrato** to it.
+- **CAGED System** is great, but for Gilmour's approach, start with **box 1** of the minor pentatonic scale.
+- **Drill:** Play the A minor pentatonic scale, but each note should have a **bent** or **vibrato** element added.
+
+```
+e|--------------------------------5-8-|
+B|------------------------5-8--------|
+G|------------------5-7--------------|
+D|------------5-7--------------------|
+A|------5-7-------------------------|
+E|--5-8----------------------------|
+```
+- Apply bends to the **5th** and **7th** frets of each string.
+- Use **vibrato** to add expression to your notes, especially on the **8th fret**.
+
+---
+
+### **3. Mixing David Gilmour’s Phrasing with Coheed’s Speed**
+Once you are comfortable with **Gilmour’s style**—particularly his **phrasing**, **bends**, and **vibrato**—you’ll have a strong foundation to build on. You’ll begin to approach Coheed’s solos from a more **expressive standpoint** before getting into the **technical speed**.
+
+#### **The Transition:**
+- **Start slow:** Once you’ve worked on the emotional aspects of Gilmour’s playing, you can start incorporating faster **legato** or **alternate picking** into your solos (this is a hallmark of Coheed's style).
+- **Modal approach:** Gilmour's solos are often based on the **minor pentatonic** or **blues scale**, which is **similar to Coheed’s modal approach**. So, this will allow you to start connecting both styles smoothly.
+
+---
+
+### **4. Structured Practice to Develop Both Styles**
+- **Weeks 1-4:** Focus on **David Gilmour** techniques (bends, vibrato, slow solos).
+  - **1 hour/day:** Work on **bends**, **vibrato**, and **slower emotional solos**.
+- **Weeks 5-8:** Transition into incorporating **Coheed’s techniques** (alternate picking, legato, fast modal licks).
+  - **1 hour/day:** Start incorporating **technical speed** and **modal licks** into your practice.
+
+---
+
+### **A Realistic Timeline**
+- If you **focus on both Gilmour and Coheed’s styles** over the next **year**, with consistent practice (around 7 hours/week), by the end of the year, you'll be able to:
+  - Play with **expressive phrasing** like Gilmour.
+  - Transition into more **technical, fast-paced solos** like Coheed.
+  - Blend both approaches into your own playing.
+
+---
+
+### **Incorporating Modal Exercises for Coheed and Gilmour**
+To make this more actionable, I’d recommend incorporating **modal exercises** (particularly **Dorian** and **Mixolydian**) as they will cover both Gilmour and Coheed’s styles.
+
+#### **Modal Exercise (Dorian Mode Example in D)**
+```
+e|---------------------5-7-|
+B|-----------------5-7-----|
+G|-----------4-7---------|
+D|------4-7--------------|
+A|--5-7-----------------|
+E|---------------------|
+```
+- Play this in **D Dorian** mode (this will feel very **Gilmour-esque**).
+- Then apply **bends** to the 7th and 5th frets to add **Gilmour-style expression**.
+
+---
+
+### **Conclusion**
+Yes, you can **definitely** incorporate **Gilmour’s style** while working towards **Coheed’s advanced solos**. By building your skills in **bending**, **vibrato**, and **melodic phrasing** first, you’ll have a strong foundation that makes tackling Coheed’s more technical licks much easier.
+
+It's not an either-or situation: you can **develop both styles** simultaneously, and doing so will actually make you a more **versatile guitarist** overall. Start slow, focus on emotional phrasing, and gradually move towards more technical precision—this will make you a **well-rounded player** able to take on Coheed, Gilmour, and other challenging styles!
