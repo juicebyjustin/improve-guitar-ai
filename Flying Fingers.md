@@ -280,58 +280,7 @@ if i can play welcome home well with the exception of all of the solos, realisti
 
 ---
 
-If you're already playing *Welcome Home* well (minus the solos), you're in a **solid** spot. To be fully comfortable with **all** of Coheed and Cambria’s music—including intricate solos, tapping sections, fast-picked riffs, and odd-time breakdowns—you need a **structured practice plan**.  
-
-### **Realistic Practice Commitment**  
-To get to the level where you can tackle **any** Coheed & Cambria song with confidence, you'll need:  
-
-#### **Minimum: 7-10 Hours per Week** (For Steady, Long-Term Progress)  
-- 🎸 **1–1.5 hours per day, 5-6 days per week**  
-- **Great for progressive improvement** over 1-2 years  
-- Expect to **gradually** become fluent with their catalog  
-
-#### **Accelerated Path: 14-20 Hours per Week** (For Rapid Mastery)  
-- 🎸 **2–3 hours per day, 6–7 days per week**  
-- **Faster technical gains** – within 6-12 months, you’ll feel comfortable with most of their discography  
-- Requires **serious commitment** (avoid burnout by mixing technique, songs, and creative play)  
-
----
-
-### **Breakdown of a Weekly Practice Plan**  
-
-| **Focus Area** | **Time per Week (Min Path)** | **Time per Week (Accel Path)** |  
-|--------------|----------------|----------------|  
-| **Technique Drills** (Alternate Picking, Legato, String Skipping, Economy Picking, Tapping) | 2–3 hrs | 5–6 hrs |  
-| **Rhythm & Riffs** (Learning Coheed’s Chord Shapes, Odd-Time Riffs, Syncopation) | 2 hrs | 4–5 hrs |  
-| **Solo Work** (Phrasing, Bends, Vibrato, Speed) | 2–3 hrs | 5–6 hrs |  
-| **Repertoire** (Learning Full Songs, Playing Along) | 2 hrs | 4 hrs |  
-| **Improvisation & Creativity** (Jamming in Coheed’s Style, Writing Licks) | 1 hr | 2–3 hrs |  
-
----
-
-### **How Long Until You Feel "Well-Versed"?**  
-- **1 Year @ 7-10 hrs/week** → Solid with 75% of their songs, but some solos might still push your limits.  
-- **1 Year @ 14-20 hrs/week** → You’ll likely **nail** any Coheed track, including advanced solos like *No World for Tomorrow* or *Key Entity Extraction V*.  
-- **2+ Years of Steady, Focused Practice** → You’ll reach the point where **ANY** Coheed lick feels **manageable**.  
-
----
-
-### **Additional Tips to Speed Up Mastery**  
-✅ **Learn Coheed’s Theory** – Understand their **chord progressions, modal choices, and rhythmic tendencies** to make learning new songs easier.  
-✅ **Record Yourself** – Helps pinpoint weak spots and improve phrasing/timing.  
-✅ **Play With a Backing Track/Metronome** – Coheed has intricate rhythmic shifts; **precision** is key.  
-✅ **Slow Down Solos First** – Break each lick into **smaller digestible chunks** before building speed.  
-✅ **Analyze Travis Stever’s Style** – While Claudio shreds, Travis brings **atmospheric & chord-heavy** sections that are just as crucial.  
-
----
-
-### **Final Answer:**
-If you **commit 10-15 hours per week**, you can reach **high-level Coheed mastery** within **a year or less**. If you go full **obsessive mode (20+ hrs/week)**, you could dominate their discography in **6-8 months**.  
-
-Let me know if you want **specific song breakdowns, exercises, or solo practice plans**! 🤘🔥
-
----
-
+# 7-10 Hrs or 15-20hrs to Coheed
 If you're already playing *Welcome Home* well (minus the solos), you're in a **solid** spot. To be fully comfortable with **all** of Coheed and Cambria’s music—including intricate solos, tapping sections, fast-picked riffs, and odd-time breakdowns—you need a **structured practice plan**.  
 
 ### **Realistic Practice Commitment**  
