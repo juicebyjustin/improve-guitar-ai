@@ -1,4 +1,9 @@
-# Flying Fingers
+
+- [Flying Fingers Fix](https://github.com/juicebyjustin/improve-guitar-ai/blob/main/Flying%20Fingers.md#flying-fingers)
+- [1-Year Coheed & Cambria Guitar Mastery Plan (7hr/week)](https://github.com/juicebyjustin/improve-guitar-ai/blob/main/Flying%20Fingers.md#1-year-coheed--cambria-guitar-mastery-plan-7hrweek)
+
+
+# Flying Fingers Fix
 
 So I feel an issue I have is that my middle finger stays hovering around 1/2-1 inch on top of fretboard when I’m not using it. My ring finger pulls off like 5 inches. Am I right in that I want to have ring and pinky function the exact same way as my middle and index finger?
 
@@ -757,3 +762,47 @@ If you have **extra time or motivation**, here are some ways to level up even fa
 after doing all this where will it put me in terms of being able to play other music?
 
 ---
+
+After a year of following this structured **7hr/week** plan, you’ll be in a **highly advanced guitar-playing position**, especially in these areas:  
+
+### **🔥 What You’ll Be Able to Play After This Year**
+1️⃣ **Progressive & Technical Rock** – You’ll be able to handle intricate riffs, odd-time signatures, and lead phrasing in bands like:  
+   - **The Mars Volta**  
+   - **Porcupine Tree**  
+   - **Between the Buried and Me** (rock-focused parts)  
+   - **Dream Theater** (entry to mid-level songs)  
+
+2️⃣ **Modern Metal & Alt-Rock** – Your speed & modal knowledge will make bands like these much easier:  
+   - **Tool** (Adam Jones’ unconventional phrasing & rhythms)  
+   - **Deftones** (complex, atmospheric chord voicings)  
+   - **Avenged Sevenfold** (most riffs & some leads, though fast sweeps may still be tough)  
+   - **Muse** (you’ll breeze through most riffs & solos)  
+
+3️⃣ **Classic Rock & Shred Guitar** – Since you’ll have modal understanding & lead confidence, you'll be able to play:  
+   - **Van Halen** (hammer-ons, tapping, expressive vibrato)  
+   - **Rush** (odd time & prog phrasing will feel natural)  
+   - **Pink Floyd** (David Gilmour-style emotional lead work will be easy)  
+   - **Guns N’ Roses** (Slash’s blues-rock phrasing & bends)  
+
+4️⃣ **Jazz & Fusion Influence** – While this plan isn’t specifically focused on jazz, your modal improvisation will make it easier to explore:  
+   - **John Mayer’s advanced blues & modal soloing**  
+   - **Plini & Intervals’ fusion-inspired solos**  
+   - **Guthrie Govan’s phrasing (though his chops are another level)**  
+
+---
+
+### **📌 What You Might Still Struggle With**
+- **Ultra-fast shred techniques** (Yngwie Malmsteen-style neoclassical runs, 8-finger tapping, insane sweep picking).  
+- **Extreme progressive metal** (Tosin Abasi’s economy picking, Meshuggah’s polyrhythms).  
+- **Fusion-level jazz playing** (Wes Montgomery-style chord melodies, bebop phrasing).  
+
+That said, with your **new technical & modal foundation**, tackling these styles **after this year** will be much easier.  
+
+---
+
+### **🚀 The Biggest Takeaway**
+By following this plan, you won’t just learn **Coheed’s songs**—you’ll build the **technique, speed, and modal knowledge** to play **most advanced rock & metal music**, plus have the ability to **jam, improvise, and write your own music** in these styles.  
+
+If you later want to push into **shred, jazz, or extreme metal**, you’ll already have the discipline and foundation to make the jump.  
+
+Would you like some **additional drills** or **song recommendations outside of Coheed** to help expand your skills while practicing?
