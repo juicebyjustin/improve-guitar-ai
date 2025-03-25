@@ -2,6 +2,7 @@
 - [Flying Fingers Fix](https://github.com/juicebyjustin/improve-guitar-ai/blob/main/Flying%20Fingers.md#flying-fingers)
 - [1-Year Coheed & Cambria Guitar Mastery Plan (7hr/week)](https://github.com/juicebyjustin/improve-guitar-ai/blob/main/Flying%20Fingers.md#1-year-coheed--cambria-guitar-mastery-plan-7hrweek)
 - [❓ Where You’ll Be After 1 Year](https://github.com/juicebyjustin/improve-guitar-ai/blob/main/Flying%20Fingers.md#-where-youll-be-after-1-year)
+- [Weekly Guitar Structure (7 hrs/week)]()
 
 
 # Flying Fingers Fix
@@ -807,3 +808,100 @@ By following this plan, you won’t just learn **Coheed’s songs**—you’ll b
 If you later want to push into **shred, jazz, or extreme metal**, you’ll already have the discipline and foundation to make the jump.  
 
 Would you like some **additional drills** or **song recommendations outside of Coheed** to help expand your skills while practicing?
+
+
+---
+
+yes
+
+---
+
+Awesome! Here’s a **structured plan** with additional drills and song recommendations to keep things engaging while building essential skills.  
+
+---
+
+## **🔥 Weekly Guitar Structure (7 hrs/week)**
+### 🎯 **Goals:**  
+- Lock in modal fluency & Coheed-style phrasing  
+- Improve left-hand accuracy & speed  
+- Develop dynamic picking & legato techniques  
+- Strengthen rhythm & odd-time signature awareness  
+
+### **🗓 Weekly Breakdown:**  
+- **Technique Drills & Warm-ups (1.5 hrs total)**
+  - Left-hand independence drills  
+  - Picking control & alternate/economy picking  
+  - Finger-strengthening chromatic patterns  
+
+- **Modal & Lead Playing (2 hrs total)**
+  - Play major/minor scales across the neck in all **5 patterns**  
+  - Improvise in **one new mode per week** over a backing track  
+  - Transcribe/learn Coheed’s **lead guitar licks** & solos  
+
+- **Rhythm & Riff Mastery (1.5 hrs total)**
+  - Practice **Coheed riffs** with metronome  
+  - Learn a **new song** (or tricky section) each week  
+  - Work on **palm muting, accents, and dynamic playing**  
+
+- **Full Song Playthroughs & Jamming (2 hrs total)**
+  - Play **2-3 full Coheed songs** each week  
+  - Jam with a backing track using **modal phrasing**  
+  - Work on **Coheed-inspired original riffs**  
+
+---
+
+## **🎸 Drills for Technique & Speed**
+### **1️⃣ Finger Independence Exercise (Lifting Control)**
+- **Goal:** Prevent fingers from lifting too far off the fretboard.  
+- **Drill:**  
+  1. Place fingers **1-2-3-4** on adjacent frets (e.g., 5th fret).  
+  2. Lift **one** finger at a time **without moving the others**.  
+  3. Move up the fretboard, **keeping non-used fingers close**.  
+  4. Try with **middle-ring-pinky** only (to fix ring-pinky issues).  
+
+### **2️⃣ Three-Note-Per-String Scale Runs (Speed & Fretboard Mapping)**
+- **Goal:** Improve picking speed & fretboard navigation.  
+- **Drill:**  
+  - Play **C major (or other scales) in 3-note-per-string** patterns.  
+  - Start **slow & controlled** (use a metronome).  
+  - Increase speed gradually **without tension**.  
+  - Try **legato-only** (hammer-ons/pull-offs) for a smoother sound.  
+
+### **3️⃣ Coheed-Style Picking Drill (Palm Muting & Dynamics)**
+- **Goal:** Improve picking accuracy & control in Coheed riffs.  
+- **Drill:**  
+  - Play a **down-up-down-down** picking pattern (like “Welcome Home” riff).  
+  - Add **palm muting** to match Coheed’s tight rhythm feel.  
+  - Slowly **increase speed** while keeping notes clear.  
+
+---
+
+## **🎵 Song Recommendations (Beyond Coheed)**
+While Coheed is the focus, playing **other artists** will solidify your **technique, modal phrasing, and rhythm skills**:  
+
+### **🔥 Best Songs for Your Growth**
+#### **🎸 Alternate Picking / Lead Phrasing**
+- **Dream Theater – "The Spirit Carries On"** (melodic solo phrasing)  
+- **Muse – "Stockholm Syndrome"** (fast alternate picking)  
+- **Avenged Sevenfold – "Bat Country"** (sweeping & lead phrasing)  
+
+#### **🎵 Modal Exploration & Melodic Playing**
+- **Pink Floyd – "Shine On You Crazy Diamond"** (slow modal phrasing)  
+- **Plini – "Electric Sunrise"** (modern fusion lead work)  
+- **The Mars Volta – "Inertiatic ESP"** (dissonant & modal licks)  
+
+#### **🤘 Progressive Riffs & Odd-Time Grooves**
+- **Tool – "Schism"** (5/8 and 7/8 time signatures)  
+- **Rush – "Tom Sawyer"** (tight rhythmic playing)  
+- **Porcupine Tree – "Blackest Eyes"** (prog rock meets heavy riffs)  
+
+---
+
+## **🚀 Where This Will Take You**
+By **week 40-52**, you’ll have:  
+✅ **Near full mastery** of Coheed’s discography.  
+✅ Strong **picking control** & lead phrasing.  
+✅ Ability to **switch modes effortlessly** in solos.  
+✅ Confidence to play **other advanced rock & metal** music.  
+
+If you ever want **specific licks, solos, or additional drills**, let me know! Want to focus on **specific Coheed solos next?**
