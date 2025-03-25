@@ -639,7 +639,7 @@ yes, i'm down
 
 ---
 
-
+# 1-Year Coheed & Cambria Guitar Mastery Plan (7hr/week)
 Awesome! Here's a **detailed 1-year roadmap** with monthly goals to keep you on track. We'll structure it so that you:  
 1️⃣ **Build technique & control** (finger independence, picking, speed).  
 2️⃣ **Learn & apply Coheed’s style** (riffing, solos, modal understanding).  
@@ -750,3 +750,10 @@ If you have **extra time or motivation**, here are some ways to level up even fa
 ---
 
 **🎸 Ready to start?** Let me know if you want specific song breakdowns or extra drills!
+
+
+---
+
+after doing all this where will it put me in terms of being able to play other music?
+
+---
