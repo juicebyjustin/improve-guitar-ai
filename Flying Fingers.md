@@ -1,5 +1,6 @@
 
 - [Flying Fingers Fix](https://github.com/juicebyjustin/improve-guitar-ai/blob/main/Flying%20Fingers.md#flying-fingers)
+- [7-10 Hrs or 15-20hrs to Coheed](https://github.com/juicebyjustin/improve-guitar-ai/blob/main/Flying%20Fingers.md#7-10-hrs-or-15-20hrs-to-coheed)
 - [1-Year Coheed & Cambria Guitar Mastery Plan (7hr/week)](https://github.com/juicebyjustin/improve-guitar-ai/blob/main/Flying%20Fingers.md#1-year-coheed--cambria-guitar-mastery-plan-7hrweek)
 - [❓ Where You’ll Be After 1 Year](https://github.com/juicebyjustin/improve-guitar-ai/blob/main/Flying%20Fingers.md#-where-youll-be-after-1-year)
 - [Weekly Guitar Structure (7 hrs/week)]()
