@@ -1,4 +1,4 @@
-**1-Year Coheed & Gilmour Guitar Mastery Plan (7 hr/week)**  
+## **1-Year Coheed & Gilmour Guitar Mastery Plan (7 hr/week)**  
 
 ### **Overview**  
 This plan will develop your skills to an **advanced, self-sufficient level** in both Coheed & Cambria's technical, modal-heavy style and David Gilmour's expressive, melodic phrasing. By the end, you'll be able to play full songs, improvise confidently, and write in both styles. True mastery takes longer, but after this year, you'll have the skills to refine and expand on your own.
