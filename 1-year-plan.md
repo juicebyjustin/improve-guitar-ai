@@ -24,7 +24,7 @@ This plan will develop your skills to an **advanced, self-sufficient level** in 
 📌 **Outcome:** By Month 3, you'll have solid rhythm skills, basic modal soloing, and a tight feel for both styles.
 
 ---
----
+
 ### **Months 4-6: Speed & Expression**
 
 #### **Goals:**  
