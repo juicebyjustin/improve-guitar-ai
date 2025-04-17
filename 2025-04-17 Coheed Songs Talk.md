@@ -132,9 +132,33 @@ So while yes, you're playing the same *speed* as 160 BPM 8ths, you're shifting t
 
 ---
 
+
+---
+---
+---
+---
+
+| Day       | Song                                | Section / Timestamp              | Time (min) | Target Speed (bpm) | Full Song BPM |
+|-----------|-------------------------------------|----------------------------------|------------|---------------------|----------------|
+| Monday    | The Suffering                       | Intro riff (0:00–0:20)           | 30         | 140 (1/8 notes)     | ~170           |
+| Tuesday   | Cuts Marked in the March of Men     | Verse riff                       | 30         | 130 (1/8 notes)     | ~160           |
+| Wednesday | In Keeping Secrets of Silent Earth: 3 | Clean pre-chorus (2:45)       | 30         | 120 (1/8 notes)     | ~135           |
+| Thursday  | Blood Red Summer                    | Chorus riff (1:00–1:30)          | 30         | 110 (1/8 notes)     | ~130           |
+| Friday    | The Crowing                         | Fast riff after low chugs (2:50–3:10) | 30     | 100 (1/16 notes)    | ~120           |
+| Saturday  | No World for Tomorrow               | Intro riff (0:00–0:30)           | 30         | 100 (1/16 notes)    | ~100           |
+| Sunday    | Free day or review hardest part     | —                                | 20–30      | —                   | —              |
+
 ### Want Me To:
 - Help you structure a weekly focus routine around unlocking clean 16ths at 80 BPM?
 - Pick one "stretch" riff for you to work toward and help break it into sections?
 - Make a practice log template for tracking riff progress?
+
+
+---
+---
+---
+
+
+
 
 Let me know what sounds fun and helpful — this is a great place to level up.
